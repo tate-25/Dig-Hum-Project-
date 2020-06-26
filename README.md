@@ -9,3 +9,5 @@
 
 ### Indviual Project 
 https://freedomhouse.org/explore-the-map?type=fiw&year=2020&mapview=trend
+%%html
+<iframe src="https://freedomhouse.org/explore-the-map?type=fiw&year=2020" width="900" height="800"></iframe>
