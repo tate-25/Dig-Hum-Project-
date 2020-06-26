@@ -8,3 +8,4 @@
 
 
 ### Indviual Project 
+https://freedomhouse.org/explore-the-map?type=fiw&year=2020&mapview=trend
